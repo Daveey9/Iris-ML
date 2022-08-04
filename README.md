@@ -10,4 +10,4 @@ Using the iris dataset, create a classification model to predict the species tha
 
 
 # Deployment
-I have used  Heroku cloud platform to help host my application online. 
+The Heroku cloud platform has been used  to host my application online. 
